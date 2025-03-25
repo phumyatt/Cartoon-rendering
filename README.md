@@ -32,16 +32,20 @@ cartoonize_image("cartoon.png", "cartoon_output.jpg")
 
 [Cartoon Demo](cartoon_output.jpg)
  2. 만화 같은 느낌이 잘 표현되지 않는 이미지 데모 
+![cartoon_output](https://github.com/user-attachments/assets/925cebdb-a17e-40c4-a382-90bc2ffb9ea1)
 
 아래 이미지는 알고리즘이 제대로 작동하지 않는 경우를 보여줍니다:
 
 [Non-Demo](cartoon_output1.jpg)
+![cartoon_output1](https://github.com/user-attachments/assets/c325ff25-fb54-46d6-acfe-46d8613599d5)
 
  3. 알고리즘의 한계점
 - 복잡한 배경: 복잡한 배경이 있는 이미지에서는 에지 검출이 어려워 만화 스타일이 잘 표현되지 않을 수 있습니다.
 - 세부 사항 손실: 세부 사항이 많은 이미지에서는 중요한 요소가 손실될 수 있습니다.
 - 색상 균형: 색상 강조가 과도해지면 이미지의 자연스러움이 줄어들 수 있습니다.
 - 조명 조건: 조명이 고르지 않거나 그림자가 많은 이미지에서는 원하는 효과를 얻기 어려울 수 있습니다.
+- 스크린샷
+<img width="1440" alt="Screenshot 2025-03-25 at 6 19 08 PM" src="https://github.com/user-attachments/assets/7d7680ab-2aa3-4f3b-8589-2a3809a7f181" />
 
 #My_own_image to animation(just my pratice)
 #Cartoon Animation Style Effect
@@ -82,4 +86,5 @@ How It Works:
 - Color Saturation: Increases color vibrancy to make the image pop.
 - Dreamy Glow: Adds a soft purple-pink glow to create a dreamy effect.
 - Posterization: Reduces the number of colors to create a flat, cartoonish look.
+![my_own_image_output](https://github.com/user-attachments/assets/bca1db2f-58e6-4089-8a7a-ee0aa71a7c6b)
 
